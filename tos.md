@@ -1,0 +1,3 @@
+- 1 : First we do log your ip and your Hwid and more cuz our key system is ip and hwid base.
+- 2 : If you leak you key we will blacklist/ip ban you.
+- 3 : If you crack / leak our script we will blacklist/ip ban you.                                                                            
